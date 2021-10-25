@@ -39,3 +39,42 @@ Data Description:
 5. Number of Instances: 41188 for bank-additional-full.csv
 
 6. Number of Attributes: 20 + output attribute.
+
+  
+PROJECT OUTPUT:  
+
+
+INSIGHTS SUMMARY
+                                        
+                                        
+Insight 1: 38.8% Subscribers are in the age group of (29 to 39)
+
+Insight 2: In the age (60-90), the Leads conversion rate is maximum.
+
+Insight 3: In the age (60-90), the Leads conversion rate is 5X as compared to age group (25-55).
+
+Insight 4: People in the age range of (30-35) are targeted maximum.
+
+Insight 5: People who work in Administration, technician and Blue-collor jobs subscribe to term deposit the most. 
+
+Insight 6: People who are students, unemployed or housemaid subscribe to term deposit the least. 
+
+Insight 7: Students, services people and unemployed are easiest to get whereas technician, blue-collar and self employed are difficult to get subscribe. 
+
+Insight 8: Single people tend to subscribe term deposit the most. 
+
+Insight 9: Well Educated people who have either University degree or went High school or have enrolled in professional course subscribe term deposits the most
+
+Insight 10: All of the Customers who have subscribed term deposit have not defaulted on credit.
+
+Insight 11: Approximately half of the customers have a home loan on them.
+
+Insight 12: Only 15% of customers have personal loan on them.
+
+Insight 13: Average duration per call for customers who subscribe to term deposit is 9.2 minutes, maximum call duration is 70 mins and minimum is 36 sec.
+
+Insight 14: 50% of the customers subscribed within 1 contact.
+
+Insight 15: 88% of customers subscribed within 3 contacts during the campaign during the campaign for term deposit subscription.
+
+
