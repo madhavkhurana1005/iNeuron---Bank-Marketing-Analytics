@@ -3,12 +3,31 @@ A Business Intelligence project completed under iNeuron Intelligence Pvt. Ltd.
 
 
 DASHBOARD (TABLEAU PUBLIC LINK) : https://public.tableau.com/app/profile/madhav.khurana/viz/BankMarketingCampaign_16361063849920/FinalDashboard
+
+
 PYTHON CODE LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/iNeuron%20BMA%20Code.ipynb
-ARCHITECTURE LINK : 
+
+
+ARCHITECTURE LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Architecture%20Design%20Document%20-%20Madhav%20Khurana.pdf
+
+
 HLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/HIGH%20LEVEL%20DESIGN%20DOCUMENT.pdf
+
+
 LLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/LOW%20LEVEL%20DESIGN%20DOCUMENT.pdf
-WIREFRAME LINK :
-DPR LINK : 
+
+
+WIREFRAME LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Bank%20Marketing%20Campaign%20Analysis.pdf
+
+
+DPR LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Project%20Report%20-%20Madhav%20Khurana.pptx
+
+
+LINKEDIN POST LINK : https://www.linkedin.com/posts/madhav-khurana-1005_ineuron-project-summary-bank-marketing-activity-6841454765637976064-etuI
+
+
+PROJECT VIDEO LINK : https://drive.google.com/file/d/1wcB3f4JwjTsGqxqLZGA0PyTtCrcIsIAE/view?usp=sharing
+
 
 Overview: 
 
