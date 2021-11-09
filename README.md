@@ -1,6 +1,15 @@
 # iNeuron-Bank-Marketing-Analytics
 A Business Intelligence project completed under iNeuron Intelligence Pvt. Ltd.
 
+
+DASHBOARD (TABLEAU PUBLIC LINK) : https://public.tableau.com/app/profile/madhav.khurana/viz/BankMarketingCampaign_16361063849920/FinalDashboard
+PYTHON CODE LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/iNeuron%20BMA%20Code.ipynb
+ARCHITECTURE LINK : 
+HLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/HIGH%20LEVEL%20DESIGN%20DOCUMENT.pdf
+LLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/LOW%20LEVEL%20DESIGN%20DOCUMENT.pdf
+WIREFRAME LINK :
+DPR LINK : 
+
 Overview: 
 
 The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit. The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not.
