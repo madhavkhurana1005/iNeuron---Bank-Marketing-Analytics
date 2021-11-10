@@ -20,7 +20,7 @@ LLD LINK: https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/
 WIREFRAME LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Bank%20Marketing%20Campaign%20Analysis.pdf
 
 
-DPR LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Project%20Report%20-%20Madhav%20Khurana.pptx
+DPR LINK : https://github.com/madhavkhurana1005/iNeuron-Bank-Marketing-Analytics/blob/main/Project%20Report%20Updated%20-%20Madhav%20Khurana.pptx
 
 
 LINKEDIN POST LINK : https://www.linkedin.com/posts/madhav-khurana-1005_ineuron-project-summary-bank-marketing-activity-6841454765637976064-etuI
